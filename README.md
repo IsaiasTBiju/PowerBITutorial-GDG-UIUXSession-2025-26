@@ -164,3 +164,121 @@ __Task 2: Loading Data from a PBIX file, a report:__
   <li>Add to Favorites from Home: Optionally, add the file to your favorites for easy access throughout the course.</li>
 </ul>
 
+---
+
+__Visualisations:__
+
+<ol>
+  <li>Open Report in Edit Mode: Navigate to the Home tab and open the retail analysis sample report in Edit mode.</li>
+  <li>Explore Visualizations Gallery:
+    <ul>
+      <li>The report editor will display the fields list and the visualizations gallery.</li>
+      <li>The visualizations are based on the same dataset.</li>
+    </ul>
+  </li>
+  <li>Create and Edit Reports: You can create reports from scratch, edit existing reports, and modify visualizations.</li>
+  <li>Types of Visualizations:
+    <ul>
+      <li>Chart Visualizations: Bar charts, column charts, line charts, area charts, pie charts.</li>
+      <li>Esoteric Charts: Combo charts, bubble charts, scatter charts, donut charts, gauges, funnel charts, waterfall charts.</li>
+      <li>Text Visualizations: Single number cards, multi-row cards, KPI visualizations.</li>
+      <li>Tabular Data: Tables and matrix visualizations.</li>
+      <li>Geospatial Visualizations: Maps, filled maps, ArcGIS maps.</li>
+      <li>Other Visualizations: Tree maps, slicers, and images.</li>
+    </ul>
+  </li>
+  <li>Custom Visualizations: Use the "Get more visuals" button to add custom visualizations from the gallery.</li>
+  <li>Telling a Data Story:
+    <ul>
+      <li>Combine visualizations to tell a story within a report.</li>
+      <li>Create an app workspace to share the report for collaboration.</li>
+      <li>Pin visualizations to a dashboard for broader sharing.</li>
+    </ul>
+  </li>
+</ol>
+
+---
+
+__Work with visualizations in a report:__
+
+<ol>
+  <li>Open PBIX File:
+    <ul>
+      <li>Navigate to the homepage and search for the PBIX file.</li>
+      <li>Click on the report to open it.</li>
+    </ul>
+  </li>
+  <li>Navigate Report Pages:
+    <ul>
+      <li>Use the page tabs to navigate through different pages of the report.</li>
+      <li>Collapse or expand the info page as needed.</li>
+    </ul>
+  </li>
+  <li>View Visualizations: Examine the visualizations on the overview page, including pie chart, column chart, map, and bubble chart.</li>
+  <li>Filter Data:
+    <ul>
+      <li>Click on a district manager's name to filter the report by that manager's data.</li>
+      <li>Use multi-select with the Control key to filter by multiple managers.</li>
+    </ul>
+  </li>
+  <li>Reset Filters:
+    <ul>
+      <li>Click on an unselected item or use the "Reset Filters, Slicers, and Other Data View Changes" button to reset the report.</li>
+    </ul>
+  </li>
+  <li>Interact with Visualizations:
+    <ul>
+      <li>Select data in one chart to filter other charts on the page.</li>
+      <li>Use the column chart to filter by month or chain.</li>
+    </ul>
+  </li>
+  <li>Lasso Data: Drag to select a set of items and use them as a filter for other visualizations.</li>
+  <li>Clear Filters: Click in the background of a chart to clear the filter and reset the visualization.</li>
+  <li>Edit Mode:
+    <ul>
+      <li>Switch to Edit mode by clicking the pencil icon to modify visualizations and work with the data.</li>
+      <li>Return to Reading View by clicking the Reading View button.</li>
+    </ul>
+  </li>
+</ol>
+
+---
+
+__Task 3: Create a new report:__
+
+<ol>
+  <li>Create a Report from an Existing Report:
+    <ul>
+      <li>Open the existing report.</li>
+      <li>Go to the File menu.</li>
+      <li>Choose "Save a copy".</li>
+      <li>Provide a new unique name for your report.</li>
+      <li>Choose a workspace.</li>
+      <li>Click "Save" to create a copy that you can modify.</li>
+    </ul>
+  </li>
+  <li>Create a New Report from Scratch:
+    <ul>
+      <li>Go to your workspace.</li>
+      <li>Navigate to your dataset.</li>
+      <li>Click the "More options" button next to the dataset.</li>
+      <li>Select "Create report".</li>
+    </ul>
+  </li>
+  <li>Report Editor Interface:
+    <ul>
+      <li>The new report canvas will open in the report editor.</li>
+      <li>On the right, you will see the Filters pane, Visualizations pane, and Fields pane.</li>
+      <li>At the top, you have options to save the report, save a copy, print the current page, and adjust view settings.</li>
+    </ul>
+  </li>
+  <li>Customize the Report Canvas:
+    <ul>
+      <li>Adjust view settings such as "Fit to page" and "Smart guides".</li>
+      <li>Turn on options like grid lines and snap to grid based on your preference.</li>
+    </ul>
+  </li>
+  <li>Add Pages: Use the page tabs at the bottom to rename the current page or add new pages.</li>
+  <li>Create a Report Using Power BI Desktop: Another method to create a report is by using Power BI Desktop, which will be covered later in the course.</li>
+</ol>
+
