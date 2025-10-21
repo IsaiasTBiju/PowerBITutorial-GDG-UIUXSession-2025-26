@@ -151,7 +151,7 @@ __Task 1: Loading Data from the Word Document:__
 
 __Task 2: Loading Data from a PBIX file, a report:__
 
-<ul>
+<ol>
   <li>Select Workspace: Choose 'My workspace' where you want to upload the PBIX file.</li>
   <li>Choose Upload: Click on the upload option.</li>
   <li>Select File Source: You can upload a PBIX file from OneDrive for Business, SharePoint, or browse to find it stored elsewhere.</li>
@@ -162,7 +162,7 @@ __Task 2: Loading Data from a PBIX file, a report:__
   <li>Open PBIX File: Open the PBIX file to access the report pages and the underlying data.</li>
   <li>Edit Mode: Switch to Edit mode to view and work with the semantic model and tables.</li>
   <li>Add to Favorites from Home: Optionally, add the file to your favorites for easy access throughout the course.</li>
-</ul>
+</ol>
 
 ---
 
@@ -302,6 +302,146 @@ __Task 4: Create and Arrange Visualisations:__
   <li>Add Sales Data Visualization: Select the sales data field (e.g., total units sold this year) to create a chart.</li>
   <li>Arrange Visualizations: Move and resize visualizations on the canvas using grid lines and guidelines for alignment.</li>
   <li>Change Visualization Type for Better Representation: Select a visualization and change its type (e.g., from chart to card) for better clarity.</li>
+</ol>
+
+---
+
+__Task 5: Save and Format a Visualisation:__
+
+<ol>
+  <li>Save the Report:
+    <ul>
+      <li>Click on File > Save or use the save button on the right.</li>
+      <li>Enter a name for your report (e.g., "My Retail Analysis").</li>
+      <li>Save it in My workspace.</li>
+    </ul>
+  </li>
+  <li>Switch Between View and Edit Modes:
+    <ul>
+      <li>After saving, the report switches to View mode.</li>
+      <li>To return to Edit mode, click the edit option.</li>
+    </ul>
+  </li>
+  <li>Collapse Filters Pane: Collapse the filters pane to give more room for formatting.</li>
+  <li>Use Canvas Zoom Control:
+    <ul>
+      <li>Use the zoom control at the bottom to zoom in and out.</li>
+      <li>Use Fit to page to see how it will look for users.</li>
+    </ul>
+  </li>
+  <li>Common Attributes for Visualizations: All visualizations can have a title, location, and size on the page.</li>
+  <li>Format a Table Visualization:
+    <ul>
+      <li>Select the table visualization.</li>
+      <li>Use the Formatting button to adjust properties like title, background color, visual border, and shadow.</li>
+      <li>Adjust text size and color as needed.</li>
+    </ul>
+  </li>
+  <li>Format a Map Visualization:
+    <ul>
+      <li>Select the map visualization.</li>
+      <li>Change the title and adjust the size and text color.</li>
+    </ul>
+  </li>
+  <li>Format a Card Visualization:
+    <ul>
+      <li>Select the card visualization.</li>
+      <li>Adjust the callout value size and category label.</li>
+    </ul>
+  </li>
+</ol>
+
+---
+
+__Task 6: Create Chart Visualisations:__
+
+<ol>
+  <li>Create a New Page: Click the New Page button to create a blank canvas.</li>
+  <li>Choose Fields:
+    <ul>
+      <li>Expand the Item table and select Category. Keeping this selected move to the next step.</li>
+      <li>Expand the Sales table and select Total Units Last Year and Total Units This Year.</li>
+    </ul>
+  </li>
+  <li>Adjust Visualization Type:
+    <ul>
+      <li>Initially, a table visualization is created.</li>
+      <li>Change the visualization type to a Line Chart.</li>
+      <li>For better representation, switch to a Stacked Column Chart or Stacked Bar Chart.</li>
+    </ul>
+  </li>
+  <li>Format the Chart:
+    <ul>
+      <li>Select the visualization and click on Format your visual.</li>
+      <li>Adjust general options and specific options for the visual.</li>
+    </ul>
+  </li>
+  <li>Fit the Canvas: Use the view options to Fit to width or Fit to page for better working space.</li>
+  <li>Create Another Visualization:
+    <ul>
+      <li>Copy the existing visualization (Ctrl+C) and paste it (Ctrl+V).</li>
+      <li>Move the new visualization to a different position.</li>
+    </ul>
+  </li>
+  <li>Modify the New Visualization:
+    <ul>
+      <li>Change the data fields if needed (e.g., remove Total Units Last Year).</li>
+      <li>Change the category to Segment, Family Name, or Buyer.</li>
+    </ul>
+  </li>
+  <li>Change Visualization Type: Change the new visualization to a Tree Map for better comparison of sizes.</li>
+  <li>Explore Chart Types: Familiarize yourself with the different chart types available in the visualization gallery.</li>
+  <li>Work with Your Data: Remember that working with your own organizational data will make using Power BI easier and more relevant.</li>
+</ol>
+
+---
+
+__Task 7: Use text and map visualisations:__
+
+<ol>
+  <li>Add a New Page:
+    <ul>
+      <li>Click on the New Page button to create space for visualizations focused on territories.</li>
+      <li>Rename the new page by double-clicking the page tab and entering "Territories".</li>
+    </ul>
+  </li>
+  <li>Create a Table Visualization:
+    <ul>
+      <li>Go to the Field list, expand Store, and select Territory.</li>
+      <li>Power BI will automatically create a map visualization.</li>
+      <li>To create a table instead, start by selecting the Table visualization type.</li>
+      <li>With the table visual selected, choose Territory again to list the territories in the table.</li>
+      <li>Adjust the font size to around 12 or 13 for better readability.</li>
+    </ul>
+  </li>
+  <li>Create a Map Visualization:
+    <ul>
+      <li>Click on the canvas to deselect the table.</li>
+      <li>Select Territory again to create a map visualization.</li>
+      <li>Resize the map by dragging its edges for better visibility.</li>
+    </ul>
+  </li>
+  <li>Use a Filled Map:
+    <ul>
+      <li>In the visualization gallery, select the Filled Map option.</li>
+      <li>This will overlay the territories on the map, showing each territory in total.</li>
+    </ul>
+  </li>
+  <li>Create an ArcGIS Map:
+    <ul>
+      <li>Delete the existing map visualization.</li>
+      <li>With no visualization selected, choose the ArcGIS Map from the gallery.</li>
+      <li>Sign in to ArcGIS if prompted, but focus on adding location-based data.</li>
+      <li>Select City under Store and add it to the location field.</li>
+      <li>The map will now display a dot for each store location.</li>
+    </ul>
+  </li>
+  <li>Consider Geospatial Data:
+    <ul>
+      <li>Reflect on the types of geospatial data available in your organization.</li>
+      <li>Think about which users would find map visualizations helpful and useful.</li>
+    </ul>
+  </li>
 </ol>
 
 
