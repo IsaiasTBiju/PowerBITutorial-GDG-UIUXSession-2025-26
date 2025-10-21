@@ -247,7 +247,7 @@ __Work with visualizations in a report:__
 __Task 3: Create a new report:__
 
 <ol>
-  <li>Create a Report from an Existing Report:
+  <li>IGNORE THIS STEP, THIS IS ONLY FOR YOU TO UNDERSTAND: Create a Report from an Existing Report:
     <ul>
       <li>Open the existing report.</li>
       <li>Go to the File menu.</li>
@@ -281,4 +281,27 @@ __Task 3: Create a new report:__
   <li>Add Pages: Use the page tabs at the bottom to rename the current page or add new pages.</li>
   <li>Create a Report Using Power BI Desktop: Another method to create a report is by using Power BI Desktop, which will be covered later in the course.</li>
 </ol>
+
+---
+
+__Task 4: Create and Arrange Visualisations:__
+
+<ol>
+  <li>Add a Visualization:
+    <ul>
+      <li>Select the data field (e.g., district manager) to create a visualization.</li>
+      <li>Power BI will automatically choose a visualization type (e.g., table).</li>
+    </ul>
+  </li>
+  <li>Change Visualization Type: Select the visualization and choose a different type from the visualizations gallery if needed.</li>
+  <li>Add a Map Visualization:
+    <ul>
+      <li>Click on the map icon and select geospatial data (e.g., postal code) to populate the map.</li>
+    </ul>
+  </li>
+  <li>Add Sales Data Visualization: Select the sales data field (e.g., total units sold this year) to create a chart.</li>
+  <li>Arrange Visualizations: Move and resize visualizations on the canvas using grid lines and guidelines for alignment.</li>
+  <li>Change Visualization Type for Better Representation: Select a visualization and change its type (e.g., from chart to card) for better clarity.</li>
+</ol>
+
 
