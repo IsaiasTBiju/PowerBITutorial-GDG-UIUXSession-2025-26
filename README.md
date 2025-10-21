@@ -495,5 +495,95 @@ __Task 8: Create a Gauge Visualisation:__
   </li>
 </ol>
 
+---
+
+__Task 9: Slicers to filter:__
+
+<ol>
+  <li>Add a Table Visualization:
+    <ul>
+      <li>Ensure no other visualization is selected.</li>
+      <li>Click on the Table icon and place it on the canvas.</li>
+      <li>Drag fields to populate the table (e.g., City under Store).</li>
+    </ul>
+  </li>
+  <li>Convert Table to Slicer:
+    <ul>
+      <li>Select the table visualization.</li>
+      <li>Click on the Slicer icon in the visualization gallery (left of the table icon).</li>
+      <li>The table will convert to a slicer with checkboxes.</li>
+    </ul>
+  </li>
+  <li>Use the Slicer:
+    <ul>
+      <li>Select items in the slicer to filter data (e.g., select Ohio to filter data for Ohio).</li>
+      <li>Hold Control to multi-select items (e.g., Maryland, Ohio, and Tennessee).</li>
+    </ul>
+  </li>
+  <li>Change Slicer Display:
+    <ul>
+      <li>Switch between List and Dropdown display options for the slicer.</li>
+      <li>List shows all items with checkboxes.</li>
+      <li>Dropdown allows selecting one item at a time, saving space.</li>
+    </ul>
+  </li>
+  <li>Add a Title to the Slicer:
+    <ul>
+      <li>Go to Formatting > General settings.</li>
+      <li>Add a title like "Choose one or more territories" to instruct users.</li>
+    </ul>
+  </li>
+  <li>Rearrange Elements:
+    <ul>
+      <li>Modify the page layout and rearrange elements as needed.</li>
+      <li>Ensure the current types of visualizations are maintained.</li>
+    </ul>
+  </li>
+</ol>
+
+---
+
+__Task 10: Sort, copy, and paste visualisations:__
+
+<ol>
+  <li>Sort Visualizations:
+    <ul>
+      <li>Select the visualization you want to sort.</li>
+      <li>Click the More Options button (three dots) on the visualization.</li>
+      <li>Choose Sort by and select the column you want to sort by (e.g., Sales Goal or District Manager).</li>
+      <li>Choose Ascending or Descending order.</li>
+    </ul>
+  </li>
+  <li>Add a Column for Sorting:
+    <ul>
+      <li>Go to the Fields pane and select the column you want to add (e.g., This Year's Sales Goal).</li>
+      <li>Drag the column to the visualization to add it.</li>
+      <li>Use the More Options button to sort by the new column.</li>
+    </ul>
+  </li>
+  <li>Copy a Visualization:
+    <ul>
+      <li>Select the visualization you want to copy.</li>
+      <li>Press Ctrl + C to copy the visualization.</li>
+    </ul>
+  </li>
+  <li>Paste a Visualization:
+    <ul>
+      <li>Click on the canvas where you want to paste the visualization.</li>
+      <li>Press Ctrl + V to paste the copied visualization.</li>
+      <li>You can paste it on the same page or a different page.</li>
+    </ul>
+  </li>
+  <li>Delete a Page:
+    <ul>
+      <li>Click the Page tab of the page you want to delete.</li>
+      <li>Click the small X that appears in the upper right-hand corner of the tab.</li>
+      <li>Confirm the deletion when prompted.</li>
+    </ul>
+  </li>
+</ol>
+
+---
+
 
 
