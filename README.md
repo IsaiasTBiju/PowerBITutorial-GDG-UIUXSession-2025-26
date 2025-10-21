@@ -444,4 +444,56 @@ __Task 7: Use text and map visualisations:__
   </li>
 </ol>
 
+---
+
+__Task 8: Create a Gauge Visualisation:__
+
+<ol>
+  <li>Add a Gauge Visualization:
+    <ul>
+      <li>Locate the gauge icon in the visualizations pane (same row as maps).</li>
+      <li>Click on the gauge icon to add it to your report canvas.</li>
+    </ul>
+  </li>
+  <li>Position and Resize the Gauge:
+    <ul>
+      <li>Move the gauge to your desired location on the page.</li>
+      <li>Resize the gauge by dragging its edges to fill the space appropriately.</li>
+    </ul>
+  </li>
+  <li>Select Data for the Gauge:
+    <ul>
+      <li>With the gauge selected, go to the Fields pane.</li>
+      <li>Drag the desired data field (e.g., This Year Sales) into the Value well of the gauge visualization.</li>
+    </ul>
+  </li>
+  <li>Set the Goal (Target Value):
+    <ul>
+      <li>Drag the goal data field (e.g., This Year Sales Goal) into the Target value well.</li>
+      <li>If the gauge does not display as expected, ensure the goal is in the correct well.</li>
+    </ul>
+  </li>
+  <li>Adjust the Maximum Value: If necessary, move the goal data field to the Maximum value well to set the maximum value for the gauge.</li>
+  <li>Format the Gauge:
+    <ul>
+      <li>Go to the Format pane and expand the Gauge axis section.</li>
+      <li>Change the Target color to your preferred color (e.g., brick red).</li>
+      <li>Ensure the goal is correctly placed in the Target value well for the color change to take effect.</li>
+    </ul>
+  </li>
+  <li>Interact with the Gauge:
+    <ul>
+      <li>Select different territories or data points to see the gauge update dynamically.</li>
+      <li>The gauge will reflect the selected data, showing performance against the goal.</li>
+    </ul>
+  </li>
+  <li>Further Formatting:
+    <ul>
+      <li>Use the formatting tools to adjust titles, colors, and other visual elements to meet your design requirements.</li>
+      <li>Ensure consistency in colors and styles across your visualizations for a cohesive look.</li>
+    </ul>
+  </li>
+</ol>
+
+
 
