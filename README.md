@@ -708,5 +708,41 @@ __Extra: Adding a filter to the report:__
   </li>
 </ol>
 
+---
+
+__Extra: Creating a Dashboard:__
+
+<ol>
+  <li>Create a Dashboard:
+    <ul>
+      <li>Open your report in Power BI.</li>
+      <li>Select the visualization you want to pin.</li>
+      <li>Click the Pin visual icon (pin icon) on the toolbar.</li>
+      <li>Choose to either select an existing dashboard or create a new one.</li>
+      <li>If creating a new dashboard, enter a name for it (e.g., "My Retail Analysis") and click Pin.</li>
+    </ul>
+  </li>
+  <li>Pin Additional Visualizations:
+    <ul>
+      <li>Go back to your report and select another visualization.</li>
+      <li>Click the Pin visual icon again.</li>
+      <li>This time, select the existing dashboard you created earlier and click Pin.</li>
+    </ul>
+  </li>
+  <li>Customize Your Dashboard:
+    <ul>
+      <li>Go to your dashboard to see the pinned visualizations.</li>
+      <li>You can change the theme by selecting a different theme or uploading a custom JSON theme.</li>
+      <li>For each tile, you can add comments, chat about it in Teams, copy it as an image, view insights, or pin it to another dashboard if you have the necessary permissions.</li>
+    </ul>
+  </li>
+  <li>Additional Features:
+    <ul>
+      <li>You can add a mobile layout for your dashboard if prompted.</li>
+      <li>Use the Q&A feature on the dashboard to ask questions about your data.</li>
+    </ul>
+  </li>
+</ol>
+
 
 
