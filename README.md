@@ -11,6 +11,11 @@ Format: Hands-on, interactive walkthrough<br>
 Platform: Power BI Service (Online)<br>
 Based on: Power BI Essential Training (2024) LinkedIn Learning Course by Gini Von Courter
 
+Link: https://github.com/IsaiasTBiju/PowerBITutorial-GDG-UIUXSession-2025-26
+
+<img width="159" height="162" alt="image" src="https://github.com/user-attachments/assets/95bfb85e-63f0-453d-b31b-14d314173a85" />
+
+
 ---
 
 __Welcome to this interactive session on Power BI Service (Online) — Microsoft’s cloud-based platform for creating, sharing, and collaborating on data visualisations. This repository contains all the resources, demo files, and notes used during the live lecture.__
