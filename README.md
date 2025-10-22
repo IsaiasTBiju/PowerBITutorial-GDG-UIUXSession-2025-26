@@ -583,7 +583,73 @@ __Task 10: Sort, copy, and paste visualisations:__
   </li>
 </ol>
 
+Save the report at the end of this section here.
+
+__End with KAHOOT Q6-10__
+
+__GREAT JOB ON MAKING IT SO FAR, I HOPE YOU'VE REALLY LEARNED SOMETHING USEFUL TODAY!!__
+
 ---
+
+__Extra: Skip over this during the session except for renaming (step 6):__
+
+<ol>
+  <li>Duplicate the Page: Right-click on the page you want to duplicate and select "Duplicate Page".</li>
+  <li>Access the Filters Pane:
+    <ul>
+      <li>Collapse the visualizations pane.</li>
+      <li>Expand the filters pane.</li>
+    </ul>
+  </li>
+  <li>Add a Filter:
+    <ul>
+      <li>Go to the data field you want to filter by (e.g., Store > Territory).</li>
+      <li>Drag and drop the field into the filters pane to filter the page.</li>
+    </ul>
+  </li>
+  <li>Select Filter Values: Choose the specific values you want to filter by (e.g., Georgia, North Carolina, South Carolina).</li>
+  <li>Advanced Filtering Options: Use advanced filter options to set conditions (e.g., contains, does not contain, starts with).</li>
+  <li>Rename the Page: Double-click the page tab to rename it (e.g., Southeast Region Category & Buyer).</li>
+  <li>Save the Report: Save the report to apply and keep the changes.</li>
+</ol>
+
+---
+
+__Extra: Adding a filter to the report:__
+
+<ol>
+  <li>Create a Copy of the Report:
+    <ul>
+      <li>Save the existing report using "Save As" and give it a new name (e.g., Southeast Retail Analysis).</li>
+      <li>Place the new report in your workspace.</li>
+    </ul>
+  </li>
+  <li>Enter Edit Mode: Click "Edit" to go back into edit mode.</li>
+  <li>Open the Filters Pane: Open the relevant data field (e.g., Store > Territory).</li>
+  <li>Add Filters:
+    <ul>
+      <li>Drag the field to "Filters on all pages".</li>
+      <li>Use either basic or advanced filtering to select specific values (e.g., Georgia, North Carolina, South Carolina).</li>
+    </ul>
+  </li>
+  <li>Manage Slicers:
+    <ul>
+      <li>Decide whether to keep or delete the slicer from the territory.</li>
+      <li>Users can still use the slicer to filter by individual states if kept.</li>
+    </ul>
+  </li>
+  <li>Hide Filters from Users:
+    <ul>
+      <li>Use the show/hide button to hide the filters pane from users in Reading view if you don't want them to change the filter.</li>
+    </ul>
+  </li>
+  <li>Save and Close:
+    <ul>
+      <li>Save the report and close it.</li>
+      <li>Return to the home page.</li>
+    </ul>
+  </li>
+</ol>
 
 
 
