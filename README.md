@@ -99,7 +99,22 @@ __Return to Home:__
 
 Click the PowerBI button in the navigation pane to return to the main screen.
 
-----
+---
+
+__Difference Between Dashboards and Reports:__
+
+Dashboards are limited to one page but can include tiles from multiple reports and data sets. Reports can have multiple pages and are based on a single data set.
+
+Creation and Usage:
+
+Dashboards are created by pinning visualizations from reports.
+They serve as a portal to underlying reports, allowing users to click on tiles to access detailed visualizations.
+
+Account Requirements:
+
+A Power BI Pro or Premium license is needed to create and save dashboards in shared workspaces, while basic dashboards can be created with a free account in My Workspace.
+
+---
 
 __Microsoft Fabric:__
 <ul>
@@ -593,6 +608,43 @@ Save the report at the end of this section here.
 __End with KAHOOT Q6-10__
 
 __GREAT JOB ON MAKING IT SO FAR, I HOPE YOU'VE REALLY LEARNED SOMETHING USEFUL TODAY!!__
+
+---
+
+__Extra: Set Interaction between Visualisations__
+
+<ol>
+  <li>Open the Report:
+    <ul>
+      <li>From the Home screen, locate the report (e.g., My Retail Analysis) and click the star to add it to Favorites for easy access.</li>
+      <li>Click the report to open it in Reading view, then click "Edit" to enter the editor.</li>
+    </ul>
+  </li>
+  <li>Add a List of Territories:
+    <ul>
+      <li>Open the Store data field.</li>
+      <li>Select "Territory" to create a map, then convert it to a table and position it on the right side.</li>
+    </ul>
+  </li>
+  <li>Default Behavior: By default, selecting a territory filters other visualizations on the page.</li>
+  <li>Edit Interactions:
+    <ul>
+      <li>Click "Visual Interactions" and turn "Edit interactions" on.</li>
+      <li>New icons will appear under the other visualizations.</li>
+    </ul>
+  </li>
+  <li>Set Interaction Types:
+    <ul>
+      <li><strong>Filter:</strong> Filters the data in other visualizations.</li>
+      <li><strong>Highlight:</strong> Highlights the selected data while keeping the original data visible.</li>
+      <li><strong>None:</strong> No interaction with other visualizations.</li>
+    </ul>
+  </li>
+  <li>Apply Interactions: Select the desired interaction type for each visualization (e.g., set both to "No action", then to "Filter", and finally to "Highlight").</li>
+  <li>Return to Default: Reset the interactions to their default behaviors if needed.</li>
+  <li>Turn Off Edit Interactions: Once done, turn off "Edit interactions" to finalize the changes.</li>
+</ol>
+
 
 ---
 
